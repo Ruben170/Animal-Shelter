@@ -3,7 +3,7 @@ package Animals;
 import java.sql.Date;
 import java.time.LocalDateTime;
 
-public class Animal {
+public abstract class Animal {
     public String Name;
     public Gender Gender;
     public Reservor reservedBy;

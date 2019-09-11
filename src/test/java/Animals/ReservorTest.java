@@ -8,6 +8,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class ReservorTest {
 
+    private Animal animal;
+    private  Cat cat;
+
     @BeforeEach
     void setUp() {
     }

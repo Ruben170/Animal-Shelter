@@ -12,7 +12,7 @@ class AnimalTest {
 
     @BeforeEach
     void setUp() {
-        animal = new Animal("Ugly Duckling", Gender.Male);
+
     }
 
     @AfterEach
