@@ -1,0 +1,36 @@
+
+}squid:S21785"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(éÿˆ•
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ç•Å½þÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"WMake tbBadHabits a static final constant or non-public and provide accessors if needed.(šøÝÀ
+‚"squid:ClassVariableVisibilityCheck"TMake ddGender a static final constant or non-public and provide accessors if needed.(¯Ó¸æ
+}squid:S21785"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(éÿˆ•
+Nsquid:S1172S"2Remove this unused method parameter "actionEvent".(Ø±Ï·úÿÿÿÿ
+fsquid:S00100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßî­Ö
+~"squid:ClassVariableVisibilityCheck"PMake load a static final constant or non-public and provide accessors if needed.(ÊÐ¹‡
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝØ˜Žúÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"YMake tbReserveName a static final constant or non-public and provide accessors if needed.(¹„×Ô
+ˆ"squid:ClassVariableVisibilityCheck"UMake tbNewName a static final constant or non-public and provide accessors if needed.(ì©á³ûÿÿÿÿ
+Isquid:S1172["2Remove this unused method parameter "actionEvent".(ßî­Ö
+‰"squid:ClassVariableVisibilityCheck"VMake serializer a static final constant or non-public and provide accessors if needed.(áÅ€žþÿÿÿÿ
+asquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(¼Èw
+Š"squid:ClassVariableVisibilityCheck"WMake reservation a static final constant or non-public and provide accessors if needed.(¼®Ô‘üÿÿÿÿ
+ksquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÑóëýÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"UMake ddSpecies a static final constant or non-public and provide accessors if needed.(¬öŠŸþÿÿÿÿ
+‚squid:S2178/"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(“Ì½Õþÿÿÿÿ
+‚squid:S2178/"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(“Ì½Õþÿÿÿÿ
+‚squid:S2178/"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(“Ì½Õþÿÿÿÿ
+}squid:S21785"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(éÿˆ•
+nsquid:S00117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¸ˆ¤ûÿÿÿÿ
+ksquid:S00100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì½ì—úÿÿÿÿ
+nsquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç•§ªùÿÿÿÿ
+ksquid:S00100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø±Ï·úÿÿÿÿ
+Nsquid:S1172&"2Remove this unused method parameter "actionEvent".(ÕÑóëýÿÿÿÿ
+Psquid:S4973F"9Use the "equals" method if value comparison was intended.(×áð½
+Usquid:S4973/"9Use the "equals" method if value comparison was intended.(“Ì½Õþÿÿÿÿ
+Usquid:S4973I"9Use the "equals" method if value comparison was intended.(¡ïÂùþÿÿÿÿ
+Ysquid:S1126T"BReplace this if-then-else statement by a single method invocation.(Ø½¿ö
+Psquid:S49735"9Use the "equals" method if value comparison was intended.(éÿˆ•
+csquid:UselessImportCheck
+"?Remove this unused import 'javax.swing.plaf.basic.BasicListUI'.(Úé¹Ë
+isquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÁåí
+„"squid:ClassVariableVisibilityCheck"VMake lstAnimals a static final constant or non-public and provide accessors if needed.(ü·Ñç

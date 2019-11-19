@@ -1,0 +1,14 @@
+GUI/Controller.class
+Animals/Gender.class
+Animals/Reservor.class
+Sellable/Isellable.class
+Animals/Animal.class
+GUI/Main.class
+Classes/Reservation.class
+Animals/Dog.class
+Sellable.class
+Animals/Species.class
+Animals/Cat.class
+Serializer/LoadSerialized.class
+Serializer/Serializer.class
+Shop.class

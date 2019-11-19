@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<GridPane alignment="center" hgap="10" minHeight="400.0" minWidth="700.0" prefHeight="400.0" prefWidth="700.0" vgap="10" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints maxWidth="0.0" minWidth="0.0" prefWidth="0.0" />
+      <ColumnConstraints maxWidth="0.0" minWidth="0.0" prefWidth="0.0" />
+      <ColumnConstraints maxWidth="672.0" minWidth="672.0" prefWidth="672.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+    <AnchorPane minHeight="400.0" minWidth="700.0" prefHeight="400.0" prefWidth="700.0" scaleShape="false" GridPane.columnIndex="3">
+         <children>
+            <Label layoutX="351.0" layoutY="332.0" text="Reserve Animal:" />
+            <TextField fx:id="tbReserveName" layoutX="351.0" layoutY="363.0" promptText="Name" />
+            <Button fx:id="btnReserve" layoutX="534.0" layoutY="363.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="87.0" onAction="#Reserve_Animal_Click" text="Reserve" />
+            <Label layoutX="29.0" layoutY="34.0" text="New Animal:" />
+            <TextField fx:id="tbNewName" layoutX="31.0" layoutY="120.0" promptText="Name" />
+            <TextField fx:id="tbBadHabits" disable="true" layoutX="31.0" layoutY="230.0" promptText="BadHabits" />
+            <ListView fx:id="lstAnimals" layoutX="251.0" layoutY="47.0" prefHeight="200.0" prefWidth="356.0" />
+            <Label layoutX="251.0" layoutY="26.0" text="Animals:" />
+            <Button fx:id="btnAddAnimal" layoutX="29.0" layoutY="282.0" mnemonicParsing="false" onAction="#Add_Animal_Click" text="Add Animal" />
+            <ChoiceBox fx:id="ddSpecies" layoutX="30.0" layoutY="71.0" onAction="#Change_BadHabits_State" prefWidth="150.0" />
+            <ChoiceBox fx:id="ddGender" layoutX="30.0" layoutY="173.0"  prefWidth="150.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>
