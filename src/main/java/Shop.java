@@ -15,6 +15,6 @@ public class Shop {
     }
 
     public void purchase(Isellable sellable){
-        String message =String.format("Do you want to buy %s for %s", sellable.getName(), sellable.getPrice());
+        String message =String.format("Do you wantt to buy %s for %s", sellable.getName(), sellable.getPrice());
     }
 }
